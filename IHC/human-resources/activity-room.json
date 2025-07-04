@@ -393,11 +393,11 @@
         {
          "columns":96,
          "firstgid":1,
-         "image":"finance-activityroom.png",
+         "image":"hr-activityroom.png",
          "imageheight":1536,
          "imagewidth":3072,
          "margin":0,
-         "name":"finance-activityroom",
+         "name":"hr-activityroom",
          "spacing":0,
          "tilecount":4608,
          "tileheight":32,

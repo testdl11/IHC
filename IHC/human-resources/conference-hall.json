@@ -460,11 +460,11 @@
         {
          "columns":96,
          "firstgid":1,
-         "image":"finance-lecture hall.png",
+         "image":"hr-lecture hall.png",
          "imageheight":1536,
          "imagewidth":3072,
          "margin":0,
-         "name":"finance-lecture hall",
+         "name":"hr-lecture hall",
          "spacing":0,
          "tilecount":4608,
          "tileheight":32,

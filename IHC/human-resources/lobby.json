@@ -1135,11 +1135,11 @@
         {
          "columns":96,
          "firstgid":577,
-         "image":"finance-lobby.png",
+         "image":"hr-lobby.png",
          "imageheight":1536,
          "imagewidth":3072,
          "margin":0,
-         "name":"finance-lobby",
+         "name":"hr-lobby",
          "spacing":0,
          "tilecount":4608,
          "tileheight":32,

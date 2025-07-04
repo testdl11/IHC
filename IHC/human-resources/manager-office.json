@@ -332,11 +332,11 @@
         {
          "columns":96,
          "firstgid":1,
-         "image":"finance-manager.png",
+         "image":"hr-manager.png",
          "imageheight":1536,
          "imagewidth":3072,
          "margin":0,
-         "name":"finance-manager",
+         "name":"hr-manager",
          "spacing":0,
          "tilecount":4608,
          "tileheight":32,
