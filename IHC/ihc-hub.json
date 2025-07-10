@@ -179,7 +179,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"marketing-lobby.json#start_from_ihchub"
+                 "value":".\/marketing\/lobby.json#start_from_ihc-hub"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -309,7 +309,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"hr-lobby.json#start_from_ihchub"
+                 "value":".\/human-resources\/lobby.json#start_from_ihc-hub"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -439,7 +439,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"operations-lobby.json#start_from_ihchub"
+                 "value":".\/operations\/lobby.json#start_from_ihc-hub"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -569,7 +569,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"it-lobby.json#start_from_ihchub"
+                 "value":".\/information-technology\/lobby.json#start_from_ihc-hub"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -699,7 +699,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"media-lobby.json#start_from_ihchub"
+                 "value":".\/media\/lobby.json#start_from_ihc-hub"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -959,7 +959,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"getting-started.json#start_from_ihchub"
+                 "value":".\/finance\/lobby.json#start_from_ihc-hub"
                 }],
          "type":"tilelayer",
          "visible":true,
