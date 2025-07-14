@@ -368,12 +368,6 @@
          "offsetx":-64,
          "offsety":-64,
          "opacity":1,
-         "properties":[
-                {
-                 "name":"url",
-                 "type":"string",
-                 "value":"https:\/\/meet.dff.beamviews.online\/conference-meeting #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":96,
