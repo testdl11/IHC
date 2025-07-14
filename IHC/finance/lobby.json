@@ -179,7 +179,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/ihc-hub.json#start-from-lobby"
+                 "value":"..\/ihc-hub.json#start-from-finance"
                 }],
          "type":"tilelayer",
          "visible":true,
