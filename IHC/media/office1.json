@@ -332,11 +332,11 @@
         {
          "columns":96,
          "firstgid":1,
-         "image":"hr-office1.png",
+         "image":"media-office1.png",
          "imageheight":1536,
          "imagewidth":3072,
          "margin":0,
-         "name":"hr-office1",
+         "name":"media-office1",
          "spacing":0,
          "tilecount":4608,
          "tileheight":32,
