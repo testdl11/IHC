@@ -569,7 +569,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/information-technology\/lobby.json#start_from_ihc-hub"
+                 "value":".\/media\/lobby.json#start_from_ihc-hub"
                 }],
          "type":"tilelayer",
          "visible":true,
