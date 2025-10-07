@@ -497,11 +497,11 @@
         {
          "columns":96,
          "firstgid":577,
-         "image":"operations-lecture-hall.png",
+         "image":"it-lecture-hall.png",
          "imageheight":1536,
          "imagewidth":3072,
          "margin":0,
-         "name":"operations-lecture-hall",
+         "name":"it-lecture-hall",
          "spacing":0,
          "tilecount":4608,
          "tileheight":32,
@@ -511,4 +511,5 @@
  "type":"map",
  "version":"1.10",
  "width":96
+
 }
