@@ -309,7 +309,7 @@
                 {
                  "name":"url",
                  "type":"string",
-                 "value":"https:\/\/meet.dff.beamviews.online\/conference-operations-meeting #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
+                 "value":"https:\/\/meet.dff.beamviews.online\/conference-it-meeting #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -480,7 +480,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/meet.dff.beamviews.online\/conference-operations-meeting #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
+                         "value":"https:\/\/meet.dff.beamviews.online\/conference-it-meeting #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
                         }]
                 }, 
                 {
@@ -513,3 +513,4 @@
  "width":96
 
 }
+
