@@ -3,10 +3,10 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "hr/office2.json",
+    "activeFile": "ihc-hub.json",
     "expandedProjectPaths": [
-        ".",
-        "hr"
+        "hr",
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -142,9 +142,9 @@
         },
         "C:/Users/DELL/Desktop/IHC_neooverse_280826/ihc-hub.json": {
             "scale": 0.3126275510204082,
-            "selectedLayer": 2,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 1834.4512443900448,
+                "x": 1077.9600163198695,
                 "y": 639.7388820889433
             }
         },
@@ -379,10 +379,10 @@
         },
         "ihc-hub.json": {
             "scale": 0.33,
-            "selectedLayer": 2,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 1262.121212121212,
-                "y": 954.5454545454547
+                "x": 1281.8181818181818,
+                "y": 563.6363636363636
             }
         },
         "ihc-hub.json#Collides": {
@@ -426,17 +426,13 @@
     "map.lastUsedFormat": "json",
     "map.width": 91,
     "openFiles": [
-        "hr/activity-room.json",
-        "hr/conference-hall.json",
-        "hr/lobby.json",
-        "hr/manager-office.json",
-        "hr/meeting-room.json",
-        "hr/office1.json",
-        "hr/office2.json"
+        "ihc-hub.json"
     ],
     "project": "ihc2.0.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "ihc-hub.json",
+        "C:/Users/DELL/Desktop/IHC_neooverse_280826/ihc-hub.json",
         "hr/office2.json",
         "hr/office1.json",
         "hr/meeting-room.json",
@@ -444,11 +440,9 @@
         "hr/lobby.json",
         "hr/conference-hall.json",
         "hr/activity-room.json",
-        "ihc-hub.json",
         "finance/office1.json",
         "finance/conference-hall.json",
-        "finance/activity-room.json",
-        "finance/office2.json"
+        "finance/activity-room.json"
     ],
     "tileset.embedInMap": true
 }
