@@ -57,6 +57,8 @@
          "height":51,
          "id":5,
          "name":"collides",
+         "offsetx":-64,
+         "offsety":-64,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -368,7 +370,7 @@
         {
          "columns":91,
          "firstgid":577,
-         "image":"it-office2.png",
+         "image":"it-office2.jpg",
          "imageheight":1632,
          "imagewidth":2912,
          "margin":0,
