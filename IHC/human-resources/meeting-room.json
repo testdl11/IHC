@@ -326,7 +326,7 @@
                 {
                  "name":"url",
                  "type":"string",
-                 "value":"https:\/\/meet.dff.beamviews.online\/finance-meeting #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
+                 "value":"https:\/\/meet.dff.beamviews.online\/hr-meeting #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -505,7 +505,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/meet.dff.beamviews.online\/finance-meeting #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
+                         "value":"https:\/\/meet.dff.beamviews.online\/hr-meeting #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
                         }]
                 }, 
                 {
@@ -522,7 +522,7 @@
         {
          "columns":91,
          "firstgid":577,
-         "image":"hr-meeting.png",
+         "image":"hr-meeting.jpg",
          "imageheight":1632,
          "imagewidth":2912,
          "margin":0,
