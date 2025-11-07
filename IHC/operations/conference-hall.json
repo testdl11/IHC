@@ -322,12 +322,6 @@
          "offsetx":-64,
          "offsety":-64,
          "opacity":1,
-         "properties":[
-                {
-                 "name":"url",
-                 "type":"string",
-                 "value":"https:\/\/meet.dff.beamviews.online\/operations-conference-meeting #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":91,
@@ -497,6 +491,15 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }]
+                }, 
+                {
+                 "id":108,
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/meet.dff.beamviews.online\/operations-conference-meeting #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
                         }]
                 }],
          "tilewidth":32
