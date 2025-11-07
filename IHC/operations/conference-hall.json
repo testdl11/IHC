@@ -319,6 +319,8 @@
          "height":51,
          "id":8,
          "name":"override",
+         "offsetx":-64,
+         "offsety":-64,
          "opacity":1,
          "properties":[
                 {
@@ -387,6 +389,8 @@
          "height":51,
          "id":9,
          "name":"silent",
+         "offsetx":-64,
+         "offsety":-64,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
