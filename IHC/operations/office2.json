@@ -58,7 +58,7 @@
          "id":5,
          "name":"collides",
          "offsetx":-64,
-         "offsety":0,
+         "offsety":-64,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
