@@ -386,7 +386,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/ihc-hub.json#start-from-hr"
+                 "value":"..\/ihc-hub.json#start-from-media"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1194,4 +1194,5 @@
  "type":"map",
  "version":"1.10",
  "width":91
+
 }
