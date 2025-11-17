@@ -424,7 +424,7 @@
                  "id":72,
                  "properties":[
                         {
-                         "name":"startLayer",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
