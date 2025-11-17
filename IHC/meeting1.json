@@ -254,9 +254,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"url",
+                 "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"lobby.json#start-from-meeting2"
+                 "value":"lobby.json#start-from-meeting1"
                 }],
          "type":"tilelayer",
          "visible":true,
