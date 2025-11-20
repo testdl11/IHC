@@ -499,7 +499,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/meet.dff.beamviews.online\/event1-meeting #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
+                         "value":"https:\/\/meet.dff.beamviews.online\/event-meeting-1 #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
                         }]
                 }],
          "tilewidth":32
@@ -521,4 +521,5 @@
  "type":"map",
  "version":"1.10",
  "width":91
+
 }
