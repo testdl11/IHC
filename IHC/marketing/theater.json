@@ -256,7 +256,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"lobby.json#start-from-conference-hall"
+                 "value":"lobby.json#start-from-theater"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3932,4 +3932,5 @@
  "type":"map",
  "version":"1.10",
  "width":91
+
 }
