@@ -658,7 +658,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"conference-hall.json#start-from-lobby"
+                 "value":"theater.json#start-from-lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
