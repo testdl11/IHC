@@ -182,7 +182,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":51,
          "id":4,
-         "name":"start-from-office1",
+         "name":"start-from-office-a",
          "opacity":1,
          "properties":[
                 {
@@ -250,13 +250,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":51,
          "id":5,
-         "name":"exit-to-office1",
+         "name":"exit-to-office-a",
          "opacity":1,
          "properties":[
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"office1.json#start-from-lobby"
+                 "value":"office-a.json#start-from-lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -448,7 +448,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":51,
          "id":6,
-         "name":"start-from-office2",
+         "name":"start-from-office-b",
          "opacity":1,
          "properties":[
                 {
@@ -516,13 +516,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":51,
          "id":7,
-         "name":"exit-to-office2",
+         "name":"exit-to-office-b",
          "opacity":1,
          "properties":[
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"office2.json#start-from-lobby"
+                 "value":"office-b.json#start-from-lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -584,7 +584,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":51,
          "id":8,
-         "name":"start-from-conference-hall",
+         "name":"start-from-theater",
          "opacity":1,
          "properties":[
                 {
@@ -652,13 +652,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":51,
          "id":9,
-         "name":"exit-to-conference-hall",
+         "name":"exit-to-theater",
          "opacity":1,
          "properties":[
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"conference-hall.json#start-from-lobby"
+                 "value":"theater.json#start-from-lobby"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1180,11 +1180,11 @@
         {
          "columns":91,
          "firstgid":577,
-         "image":"operations-lobby.jpg",
+         "image":"operations-lobby_1.jpg",
          "imageheight":1632,
          "imagewidth":2912,
          "margin":0,
-         "name":"operations-lobby",
+         "name":"operations-lobby_1",
          "spacing":0,
          "tilecount":4641,
          "tileheight":32,
