@@ -1180,11 +1180,11 @@
         {
          "columns":91,
          "firstgid":577,
-         "image":"hr-lobby_1.jpg",
+         "image":"hr-lobby.jpg",
          "imageheight":1632,
          "imagewidth":2912,
          "margin":0,
-         "name":"hr-lobby_1",
+         "name":"hr-lobby",
          "spacing":0,
          "tilecount":4641,
          "tileheight":32,
