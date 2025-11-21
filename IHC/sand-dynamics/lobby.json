@@ -386,7 +386,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"lobby.json#start-from-lobby"
+                 "value":"www.tds1.neooverse.online"
                 }],
          "type":"tilelayer",
          "visible":true,
