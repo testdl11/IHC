@@ -244,7 +244,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"lobbyy.json#start-from-sd-hub"
+                 "value":"lobby.json#start-from-sd-hub"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -355,11 +355,11 @@
         {
          "columns":86,
          "firstgid":577,
-         "image":"sd-paark.jpeg",
+         "image":"sd-park.jpeg",
          "imageheight":1536,
          "imagewidth":2752,
          "margin":0,
-         "name":"sd-paark",
+         "name":"sd-park",
          "spacing":0,
          "tilecount":4128,
          "tileheight":32,
