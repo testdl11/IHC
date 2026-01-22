@@ -545,7 +545,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"sd-hub.json#start-from-building-a"
+                 "value":"sd-hub.json#start-from-building-b"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -841,7 +841,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/meet.dff.beamviews.online\/sand-building-a-meeting #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
+                         "value":"https:\/\/meet.dff.beamviews.online\/sand-Building-b-theater #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
                         }]
                 }, 
                 {
@@ -850,7 +850,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/meet.dff.beamviews.online\/sand-building-a-theater #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
+                         "value":"https:\/\/meet.dff.beamviews.online\/sand-building-b-meeting #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
                         }]
                 }, 
                 {
@@ -867,11 +867,11 @@
         {
          "columns":172,
          "firstgid":577,
-         "image":"Sand Dynamics X IAC - Building A.jpeg",
+         "image":"Sand Dynamics X IAC - Building B.jpeg",
          "imageheight":3072,
          "imagewidth":5504,
          "margin":0,
-         "name":"Sand Dynamics X IAC - Building A",
+         "name":"Sand Dynamics X IAC - Building B",
          "spacing":0,
          "tilecount":16512,
          "tileheight":32,
