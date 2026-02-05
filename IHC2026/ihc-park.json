@@ -209,6 +209,8 @@
          "height":96,
          "id":18,
          "name":"collides",
+         "offsetx":-64,
+         "offsety":-64,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -1723,7 +1725,7 @@
         {
          "columns":172,
          "firstgid":577,
-         "image":"IHC Park.png",
+         "image":"IHC Park.jpg",
          "imageheight":3072,
          "imagewidth":5504,
          "margin":0,

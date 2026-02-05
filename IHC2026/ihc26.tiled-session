@@ -10,10 +10,10 @@
         },
         "ihc-park.json": {
             "scale": 0.17812499999999998,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 2750.8771929824566,
-                "y": 1538.2456140350878
+                "y": 2335.4385964912285
             }
         },
         "ihc-park.json#Collides": {
@@ -23,11 +23,11 @@
             "scaleInDock": 1
         },
         "office-a.json": {
-            "scale": 0.5,
+            "scale": 0.125,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 3510,
-                "y": 2668
+                "x": 2720,
+                "y": 2024
             }
         },
         "office-a.json#Collides": {
@@ -42,7 +42,7 @@
             "selectedLayer": 5,
             "viewCenter": {
                 "x": 2720.391676866585,
-                "y": 1505.0183598531212
+                "y": 2311.481028151775
             }
         },
         "office-b.json#Collides": {
@@ -57,7 +57,7 @@
             "selectedLayer": 5,
             "viewCenter": {
                 "x": 2720.391676866585,
-                "y": 1505.0183598531212
+                "y": 2311.481028151775
             }
         },
         "office-c.json#Collides": {
@@ -69,10 +69,10 @@
         },
         "office-d.json": {
             "scale": 0.17607758620689656,
-            "selectedLayer": 0,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 2720.391676866585,
-                "y": 1505.0183598531212
+                "y": 2311.481028151775
             }
         },
         "office-d.json#Collides": {
@@ -87,10 +87,10 @@
         },
         "office-e.json": {
             "scale": 0.17607758620689656,
-            "selectedLayer": 0,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 2720.391676866585,
-                "y": 1505.0183598531212
+                "y": 2311.481028151775
             }
         },
         "office-e.json#Collides": {
@@ -102,10 +102,10 @@
         },
         "office-f.json": {
             "scale": 0.17607758620689656,
-            "selectedLayer": 2,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 2720.391676866585,
-                "y": 1505.0183598531212
+                "y": 2311.481028151775
             }
         },
         "office-f.json#Collides": {
@@ -137,13 +137,13 @@
     "project": "ihc26.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "ihc-park.json",
+        "office-f.json",
         "office-e.json",
         "office-d.json",
-        "office-f.json",
-        "office-a.json",
         "office-b.json",
         "office-c.json",
+        "office-a.json",
+        "ihc-park.json",
         "sd-hub.json"
     ],
     "tileset.embedInMap": true
