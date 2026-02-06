@@ -323,7 +323,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/worldtds1.neooverse.online\/_\/https:\/raw.githubusercontent.com\/testdl11\/IHC\/refs\/heads\/main\/IHC\/events-hub\/events.json"
+                 "value":"https:\/\/worldihc01.neooverse.online\/_\/https:\/raw.githubusercontent.com\/testdl11\/IHC\/refs\/heads\/main\/IHC\/events-hub\/events.json"
                 }],
          "type":"tilelayer",
          "visible":true,
