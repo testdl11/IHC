@@ -544,6 +544,8 @@
          "height":96,
          "id":26,
          "name":"collides",
+         "offsetx":-64,
+         "offsety":-64,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
