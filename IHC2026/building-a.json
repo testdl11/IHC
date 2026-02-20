@@ -545,7 +545,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"ihc-park.json#start-from-office-a"
+                 "value":"ihc-park.json#start-from-building-a"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -841,7 +841,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/meet.dff.beamviews.online\/IHC-office-a-theater #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
+                         "value":"https:\/\/meet.dff.beamviews.online\/IHC-building-a-theater #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
                         }]
                 }, 
                 {
@@ -850,7 +850,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/meet.dff.beamviews.online\/IHC-office-a-meeting #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
+                         "value":"https:\/\/meet.dff.beamviews.online\/IHC-building-a-meeting #config.prejoinConfig.enable\nd=false&config.startWithAudioMuted=true&config.startWithVideoMuted=true"
                         }]
                 }, 
                 {
@@ -867,11 +867,11 @@
         {
          "columns":172,
          "firstgid":577,
-         "image":"Office-A.jpg",
+         "image":"building-A.jpg",
          "imageheight":3072,
          "imagewidth":5504,
          "margin":0,
-         "name":"Office-A",
+         "name":"building-A",
          "spacing":0,
          "tilecount":16512,
          "tileheight":32,
@@ -881,4 +881,5 @@
  "type":"map",
  "version":"1.10",
  "width":172
+
 }
