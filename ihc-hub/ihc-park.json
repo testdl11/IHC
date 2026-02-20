@@ -323,7 +323,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"events-hub\/events.json#start-from-ihc-park"
+                 "value":".\/events-hub\/events.json#start-from-ihc-park"
                 }],
          "type":"tilelayer",
          "visible":true,
