@@ -1,0 +1,526 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "ihc-hub/building-c.json",
+    "expandedProjectPaths": [
+        "EIDA",
+        ".",
+        "ihc-hub"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/DELL/Desktop/ihc2.0/events center/events.json": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1425.3333333333333,
+                "y": 784
+            }
+        },
+        "C:/Users/DELL/Desktop/ihc2.0/events center/events.json#Collides": {
+            "scaleInDock": 1
+        },
+        "C:/Users/DELL/Desktop/ihc2.0/events center/events.json#park": {
+            "scaleInDock": 1
+        },
+        "C:/Users/DELL/Desktop/ihc2.0/finance/lobby.json": {
+            "scale": 0.32943548387096777,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1423.6474908200732,
+                "y": 783.1578947368421
+            }
+        },
+        "C:/Users/DELL/Desktop/ihc2.0/finance/lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "C:/Users/DELL/Desktop/ihc2.0/finance/lobby.json#finance-lobby": {
+            "scaleInDock": 1
+        },
+        "C:/Users/DELL/Desktop/ihc2.0/hr/lobby.json": {
+            "scale": 0.25729166666666664,
+            "selectedLayer": 16,
+            "viewCenter": {
+                "x": 1422.51012145749,
+                "y": 781.2145748987853
+            }
+        },
+        "C:/Users/DELL/Desktop/ihc2.0/hr/lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "C:/Users/DELL/Desktop/ihc2.0/hr/lobby.json#hr-lobby": {
+            "scaleInDock": 1
+        },
+        "C:/Users/DELL/Desktop/ihc2.0/ihc-hub.json": {
+            "scale": 0.17607758620689656,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 2720.391676866585,
+                "y": 1505.0183598531212
+            }
+        },
+        "C:/Users/DELL/Desktop/ihc2.0/ihc-hub.json#Collides": {
+            "scaleInDock": 1
+        },
+        "C:/Users/DELL/Desktop/ihc2.0/ihc-hub.json#ihc-park": {
+            "scaleInDock": 1
+        },
+        "C:/Users/DELL/Desktop/ihc2.0/ihc-hub.json#row-1-column-1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/DELL/Desktop/ihc2.0/ihc-hub.json#row-1-column-2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/DELL/Desktop/ihc2.0/ihc-hub.json#row-2-column-1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/DELL/Desktop/ihc2.0/ihc-hub.json#row-2-column-2": {
+            "scaleInDock": 1
+        },
+        "EIDA/campus-1 - Copy.json": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3468,
+                "y": 1688
+            }
+        },
+        "EIDA/campus-1 - Copy.json#Collides": {
+            "scaleInDock": 1
+        },
+        "EIDA/campus-1 - Copy.json#campus-1": {
+            "scaleInDock": 1
+        },
+        "EIDA/campus-1-theater.json": {
+            "scale": 0.25,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 2724,
+                "y": 1504
+            }
+        },
+        "EIDA/campus-1-theater.json#Academy-1-Theater": {
+            "scaleInDock": 1
+        },
+        "EIDA/campus-1-theater.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "EIDA/campus-1-theater.json#campus-1-theater": {
+            "scaleInDock": 1
+        },
+        "EIDA/campus-1.json": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2720,
+                "y": 1496
+            }
+        },
+        "EIDA/campus-1.json#Academy-1": {
+            "scaleInDock": 1
+        },
+        "EIDA/campus-1.json#Academy-1 (2)": {
+            "scaleInDock": 1
+        },
+        "EIDA/campus-1.json#Academy-2": {
+            "scaleInDock": 1
+        },
+        "EIDA/campus-1.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "EIDA/campus-1.json#campus-1": {
+            "scaleInDock": 1
+        },
+        "EIDA/campus-2-theater.json": {
+            "scale": 0.33,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 2721.212121212121,
+                "y": 1506.060606060606
+            }
+        },
+        "EIDA/campus-2-theater.json#Academy-2-Theater": {
+            "scaleInDock": 1
+        },
+        "EIDA/campus-2-theater.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "EIDA/campus-2-theater.json#campus-2-theater": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "EIDA/campus-2.json": {
+            "scale": 0.25,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 2724,
+                "y": 1504
+            }
+        },
+        "EIDA/campus-2.json#Academy-2": {
+            "scaleInDock": 1
+        },
+        "EIDA/campus-2.json#Academy-2-Updated (3)": {
+            "scaleInDock": 1
+        },
+        "EIDA/campus-2.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "EIDA/campus-2.json#campus-2": {
+            "scaleInDock": 1
+        },
+        "EIDA/eaic.json": {
+            "scale": 0.125,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 2724,
+                "y": 1500
+            }
+        },
+        "EIDA/eaic.json#Collides": {
+            "scaleInDock": 1
+        },
+        "EIDA/eaic.json#Exterior-updated (3)": {
+            "scaleInDock": 1
+        },
+        "EIDA/eaic.json#Exterior-updated (5)": {
+            "scaleInDock": 1
+        },
+        "EIDA/home - Copy.json": {
+            "scale": 0.17933321220930232,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2751.860594701383,
+                "y": 1533.4582847880051
+            }
+        },
+        "EIDA/home - Copy.json#Collides": {
+            "scaleInDock": 1
+        },
+        "EIDA/home - Copy.json#exterior": {
+            "scaleInDock": 1
+        },
+        "EIDA/home.json": {
+            "scale": 0.125,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 2676,
+                "y": 1840
+            }
+        },
+        "EIDA/home.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "EIDA/home.json#Exterior": {
+            "scaleInDock": 1
+        },
+        "EIDA/home.json#exterior": {
+            "scaleInDock": 1
+        },
+        "EIDA/home.tmj": {
+            "scale": 0.17933321220930232,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2751.860594701383,
+                "y": 1533.4582847880051
+            }
+        },
+        "EIDA/home.tmj#Collides": {
+            "scaleInDock": 1
+        },
+        "EIDA/home.tmj#exterior": {
+            "scaleInDock": 1
+        },
+        "EIDA/management.json": {
+            "scale": 0.0625,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 2720,
+                "y": 1488
+            }
+        },
+        "EIDA/management.json#Academy": {
+            "scaleInDock": 1
+        },
+        "EIDA/management.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "EIDA/management.json#Management (2) (1)": {
+            "scaleInDock": 1
+        },
+        "EIDA/management.json#management": {
+            "scaleInDock": 1
+        },
+        "ihc-hub/building-a.json": {
+            "scale": 0.33,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 2719.69696969697,
+                "y": 1504.5454545454545
+            }
+        },
+        "ihc-hub/building-a.json#Collides": {
+            "scaleInDock": 1
+        },
+        "ihc-hub/building-a.json#building-A": {
+            "scaleInDock": 1
+        },
+        "ihc-hub/building-b.json": {
+            "scale": 0.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1888,
+                "y": 1898
+            }
+        },
+        "ihc-hub/building-b.json#Collides": {
+            "scaleInDock": 1
+        },
+        "ihc-hub/building-b.json#building-B": {
+            "scaleInDock": 1
+        },
+        "ihc-hub/building-c.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 3966,
+                "y": 1790
+            }
+        },
+        "ihc-hub/building-c.json#Collides": {
+            "scaleInDock": 1
+        },
+        "ihc-hub/building-c.json#building-C": {
+            "scaleInDock": 1
+        },
+        "ihc-hub/building-d.json": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 966.6666666666667,
+                "y": 2321.333333333333
+            }
+        },
+        "ihc-hub/building-d.json#Collides": {
+            "scaleInDock": 1
+        },
+        "ihc-hub/building-d.json#building-D": {
+            "scaleInDock": 1
+        },
+        "ihc-hub/building-e.json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1840,
+                "y": 1838
+            }
+        },
+        "ihc-hub/building-e.json#Collides": {
+            "scaleInDock": 1
+        },
+        "ihc-hub/building-e.json#building-E": {
+            "scaleInDock": 1
+        },
+        "ihc-hub/building-f.json": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2719.69696969697,
+                "y": 1504.5454545454545
+            }
+        },
+        "ihc-hub/building-f.json#Collides": {
+            "scaleInDock": 1
+        },
+        "ihc-hub/building-f.json#building-F": {
+            "scaleInDock": 1
+        },
+        "ihc-hub/events-hub/events.json": {
+            "scale": 0.25729166666666664,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 1263.157894736842,
+                "y": 785.1012145748989
+            }
+        },
+        "ihc-hub/events-hub/events.json#Collides": {
+            "scaleInDock": 1
+        },
+        "ihc-hub/events-hub/events.json#park": {
+            "scaleInDock": 1
+        },
+        "ihc-hub/ihc-park.json": {
+            "scale": 0.17607758620689656,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 2714.712362301101,
+                "y": 1505.0183598531212
+            }
+        },
+        "ihc-hub/ihc-park.json#Collides": {
+            "scaleInDock": 1
+        },
+        "ihc-hub/ihc-park.json#IHC Park": {
+            "scaleInDock": 1
+        },
+        "ihc-park.json": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 2521,
+                "y": 2759
+            }
+        },
+        "ihc-park.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ihc-park.json#IHC Park": {
+            "scaleInDock": 1
+        },
+        "office-a.json": {
+            "scale": 0.125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2712,
+                "y": 2024
+            }
+        },
+        "office-a.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "office-a.json#Office-A": {
+            "scaleInDock": 1
+        },
+        "office-b.json": {
+            "scale": 0.17607758620689656,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 2720.391676866585,
+                "y": 2311.481028151775
+            }
+        },
+        "office-b.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "office-b.json#Office-B": {
+            "scaleInDock": 1
+        },
+        "office-c.json": {
+            "scale": 0.17607758620689656,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 2720.391676866585,
+                "y": 2311.481028151775
+            }
+        },
+        "office-c.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "office-c.json#Office-C": {
+            "scaleInDock": 1
+        },
+        "office-d.json": {
+            "scale": 0.17607758620689656,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 2720.391676866585,
+                "y": 2311.481028151775
+            }
+        },
+        "office-d.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "office-d.json#Office-A": {
+            "scaleInDock": 1
+        },
+        "office-d.json#Office-D": {
+            "scaleInDock": 1
+        },
+        "office-e.json": {
+            "scale": 0.17607758620689656,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 2720.391676866585,
+                "y": 2311.481028151775
+            }
+        },
+        "office-e.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "office-e.json#Office-E": {
+            "scaleInDock": 1
+        },
+        "office-f.json": {
+            "scale": 0.17607758620689656,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 2720.391676866585,
+                "y": 2311.481028151775
+            }
+        },
+        "office-f.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "office-f.json#Office-F": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "sd-hub.json": {
+            "scale": 0.25,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1996,
+                "y": 1908
+            }
+        },
+        "sd-hub.json#Collides": {
+            "scaleInDock": 1
+        },
+        "sd-hub.json#IHC Park": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/DELL/Desktop/ihc 2026",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "ihc-hub/building-c.json",
+        "ihc-hub/building-a.json",
+        "ihc-hub/building-f.json"
+    ],
+    "project": "ihc26.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "ihc-hub/building-f.json",
+        "ihc-hub/building-a.json",
+        "ihc-hub/building-c.json",
+        "ihc-hub/ihc-park.json",
+        "ihc-hub/building-e.json",
+        "ihc-hub/building-b.json",
+        "ihc-hub/building-d.json",
+        "ihc-park.json",
+        "C:/Users/DELL/Desktop/ihc2.0/hr/lobby.json",
+        "ihc-hub/events-hub/events.json",
+        "C:/Users/DELL/Desktop/ihc2.0/ihc-hub.json",
+        "C:/Users/DELL/Desktop/ihc2.0/finance/lobby.json"
+    ],
+    "tileset.embedInMap": true
+}
